@@ -20,9 +20,9 @@ These GUI applications demonstrate:
 
 ## 📂 Projects Included
 
-- Student Management System
-- Banking System
-- GUI-Based Final Project
+- Movie Manager
+- Students Manager
+- GUI-Based Fitness Tracker App Final Project
 
 ## ▶️ How to Run
 
